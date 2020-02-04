@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b1dd12c9e2dcda49a8f9bb846cd99af, type: 3}
+  m_Name: PlayerInfo_Schoolgirl
+  m_EditorClassIdentifier: 
+  characterMission: 2
+  missionIndex: 2
+  attachedObject: {fileID: 0}
+  X: 0
+  Y: 0
+  Z: 0
+  portraitImage: {fileID: 0}
+  fullImage: {fileID: 0}
+  collectibleImage: {fileID: 0}
+  characterName: 
+  instructionsIndex: 0
+  instructionsSpeechText:
+  - Hi, I am a school girl.
+  - Please help me answer questions.
+  objectivesText: 
+  introSpeechText: []
